@@ -12,5 +12,5 @@ Getting Started
 Run Test
 
 	1. Import or clone repository in your IDE
-	2. Select the test file ./src/test/java/utilities/CategoryMainTest and Run
+	2. Select the test file ./src/test/java/utilities/CategoryMainTest and run the script
 
